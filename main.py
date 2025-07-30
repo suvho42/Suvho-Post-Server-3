@@ -11,7 +11,7 @@ app.secret_key = 'your_secret_key_here'
 user_sessions = {}
 stop_flags = {}
 
-user_name = "😈 𝐒𝐇𝐈𝐁𝐀𝐉𝐈 ᯽ 𝙊𝙉 𝙁𝙄𝙍𝗘 😈"
+user_name = "😈 𝐒𝐇𝐈𝐁𝐀𝐉𝐈 ☠️ 𝙊𝙉 𝙁𝙄𝙍𝗘 💪"
 whatsapp_no = "PATA TO HAI NA"
 facebook_link = "https://www.facebook.com/kaltu.ray.9"
 
